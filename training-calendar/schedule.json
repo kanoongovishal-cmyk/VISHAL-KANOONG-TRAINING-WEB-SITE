@@ -1,0 +1,134 @@
+[
+  {
+    "course": "PMP",
+    "title": "Project Management Professional",
+    "startDate": null,
+    "endDate": null,
+    "mode": "Live online",
+    "batchType": null,
+    "time": null,
+    "sessions": null,
+    "fee": null
+  },
+  {
+    "course": "PMP",
+    "title": "Project Management Professional",
+    "startDate": null,
+    "endDate": null,
+    "mode": "Classroom in UAE",
+    "batchType": null,
+    "time": null,
+    "sessions": null,
+    "fee": null
+  },
+  {
+    "course": "PgMP",
+    "title": "Program Management Professional",
+    "startDate": null,
+    "endDate": null,
+    "mode": "Live online",
+    "batchType": null,
+    "time": null,
+    "sessions": null,
+    "fee": null
+  },
+  {
+    "course": "PgMP",
+    "title": "Program Management Professional",
+    "startDate": null,
+    "endDate": null,
+    "mode": "Classroom in UAE",
+    "batchType": null,
+    "time": null,
+    "sessions": null,
+    "fee": null
+  },
+  {
+    "course": "PfMP",
+    "title": "Portfolio Management Professional",
+    "startDate": null,
+    "endDate": null,
+    "mode": "Live online",
+    "batchType": null,
+    "time": null,
+    "sessions": null,
+    "fee": null
+  },
+  {
+    "course": "PfMP",
+    "title": "Portfolio Management Professional",
+    "startDate": null,
+    "endDate": null,
+    "mode": "Classroom in UAE",
+    "batchType": null,
+    "time": null,
+    "sessions": null,
+    "fee": null
+  },
+  {
+    "course": "PMI-ACP",
+    "title": "Agile Certified Practitioner",
+    "startDate": null,
+    "endDate": null,
+    "mode": "Live online",
+    "batchType": null,
+    "time": null,
+    "sessions": null,
+    "fee": null
+  },
+  {
+    "course": "PMI-ACP",
+    "title": "Agile Certified Practitioner",
+    "startDate": null,
+    "endDate": null,
+    "mode": "Classroom in UAE",
+    "batchType": null,
+    "time": null,
+    "sessions": null,
+    "fee": null
+  },
+  {
+    "course": "PMI-RMP",
+    "title": "Risk Management Professional",
+    "startDate": null,
+    "endDate": null,
+    "mode": "Live online",
+    "batchType": null,
+    "time": null,
+    "sessions": null,
+    "fee": null
+  },
+  {
+    "course": "PMI-RMP",
+    "title": "Risk Management Professional",
+    "startDate": null,
+    "endDate": null,
+    "mode": "Classroom in UAE",
+    "batchType": null,
+    "time": null,
+    "sessions": null,
+    "fee": null
+  },
+  {
+    "course": "PMI-CPMAI",
+    "title": "Managing AI",
+    "startDate": null,
+    "endDate": null,
+    "mode": "Live online",
+    "batchType": null,
+    "time": null,
+    "sessions": null,
+    "fee": null
+  },
+  {
+    "course": "PMI-CPMAI",
+    "title": "Managing AI",
+    "startDate": null,
+    "endDate": null,
+    "mode": "Classroom in UAE",
+    "batchType": null,
+    "time": null,
+    "sessions": null,
+    "fee": null
+  }
+]
